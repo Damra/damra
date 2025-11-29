@@ -12,7 +12,9 @@
 
 ## 🚀 Hakkımda
 
-Merhaba, ben Damra. Şu an İstanbul'da yaşıyorum. Yaklaşık 2012'den beri yazılım dünyasında, özellikle backend ve mobil uygulama geliştirme alanlarında çalışıyorum. Mesleğimi seviyor ve sürekli kendimi geliştirdiğime inanıyorum. <br/>Aktif olarak Android platformunda Kotlin ile kodluyorum.
+2012 yılından beri yazılım geliştirme alanında aktif olarak çalışıyorum. Özellikle Android mobil uygulama geliştirme konusunda uzmanlaştım.<br/> Mesleğimi tutkuyla yapıyor ve her gün yeni teknolojiler öğrenerek kendimi geliştiriyorum.
+
+
 
 ---
 
